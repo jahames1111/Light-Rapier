@@ -80,6 +80,7 @@ During this time, I made some adjustments to the diameter of the tube to improve
 I have decided that I want to have a sharp sword edge instead of the round curve I previously had. During this time, I have:
 - Redone the telescoping part to have an edge
 - Resimulated it and adjusted the area in between the layers to extend fully
+- Tried rebuilding it with varying degrees of angles from 1 to 5 to make it extend fully without it wiggling too much
 
 ![Screenshot 2026-10-16 115241](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/I7BCCSaDZdiVaMHHX4YOIXN3RCDmuDxy/5882b8cdc6c745e93ab6446183f54cf9169b627197ebb6fef51607951981b1ac.png)
 
