@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 19h | 5 |
+| Week 2 | Tier 1 | 18h | 5 |
 
 ## Contents
 
@@ -95,7 +95,7 @@ I have decided that I want to have a sharp sword edge instead of the round curve
 
 ### 2026-10-17 – Shopping time!
 
-**2h**
+**1h**
 
 Shopping time!
 During this time, I went to JLCPCB and did quite a lot of surprisingly non-AI research on the best material for this project. I decided to use PLA-P because it is cheap, strong, and effective. It is also really easy to sand and smooth.
