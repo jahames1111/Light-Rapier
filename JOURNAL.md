@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 17h | 5 |
+| Week 2 | Tier 1 | 16.5h | 5 |
 
 ## Contents
 
@@ -49,7 +49,7 @@ https://makerworld.com/en/models/1902146-light-up-collapsible-sword#profileId-20
 
 ### 2026-10-14 – In this time, I added a hilt to the sword and added the holes for the LEDs. I also spent some time modifying the spacing between the layers of the blade to make it fully slide out in the Tinkercad sim
 
-**3.5h**
+**3h**
 
 In this time, I added a hilt to the sword and added the holes for the LEDs. I also spent some time modifying the spacing between the layers of the blade to make it fully slide out in the Tinkercad simulation.
 
