@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 18h | 5 |
+| Week 2 | Tier 1 | 17h | 5 |
 
 ## Contents
 
@@ -76,7 +76,7 @@ During this time, I made some adjustments to the diameter of the tube to improve
 
 ### 2026-10-16 – I have decided that I want to have a sharp sword edge instead of the round curve I previously had. During this time, I have:
 
-**5h**
+**4h**
 
 I have decided that I want to have a sharp sword edge instead of the round curve I previously had. During this time, I have:
 - Redone the telescoping part to have an edge
